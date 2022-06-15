@@ -3,11 +3,11 @@
 <img src="https://i.postimg.cc/zv98Rjn8/MT101-IIA-Lendell-Klen-Victorio-Callcard.jpg"/>
 
 <h1 align=center> Our Services Include </h1>
-<img align="left" width="48%" src="https://i.postimg.cc/Dw8bTFTR/istockphoto-955977416-612x612-1.jpg" />
-<img align="left" width="48%" src="https://i.postimg.cc/8Pyr9cqh/computer-maintenance-and-repair.jpg" />
+<img align="left" width="47.5%" src="https://i.postimg.cc/Dw8bTFTR/istockphoto-955977416-612x612-1.jpg" />
+<img align="left" width="47.5%" src="https://i.postimg.cc/8Pyr9cqh/computer-maintenance-and-repair.jpg" />
 <h2 align="center">Computer Repair & Phone Repair<h2>
 
-<img align="left" width="48%" src="https://i.postimg.cc/RCd49DvB/Software-Installation.jpg" />
+<img align="left" width="45%" src="https://i.postimg.cc/RCd49DvB/Software-Installation.jpg" />
 <img align="left"  width="480px" height="311px"  src="https://i.postimg.cc/ncLZLGLQ/st.png" />
 
   
