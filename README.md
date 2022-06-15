@@ -8,7 +8,7 @@
 <h2 align="center">Computer Repair & Phone Repair<h2>
 
 <img align="left" width="42%" src="https://i.postimg.cc/RCd49DvB/Software-Installation.jpg" />
-<img align="left"  width="430px" height="275px"  src="https://i.postimg.cc/ncLZLGLQ/st.png" />
+<img align="left"  width="430px" height="250px"  src="https://i.postimg.cc/ncLZLGLQ/st.png" />
 
   
 <h2 align="center">Software Installation & File Recovery</h2>
